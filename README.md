@@ -1,1 +1,1 @@
-# rbm_binary_recommendation_system
+Restricted Boltzmann Machine to predict if a user would like/dislike a movie. i.e. binary prediction
